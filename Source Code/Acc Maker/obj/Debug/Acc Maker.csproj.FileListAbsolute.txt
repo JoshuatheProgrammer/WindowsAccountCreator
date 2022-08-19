@@ -1,0 +1,20 @@
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\bin\Debug\Colorful.Console.dll
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.CopyComplete
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\bin\Debug\WAM.exe.config
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\bin\Debug\WAM.exe
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\bin\Debug\WAM.pdb
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\obj\Debug\WAM.exe
+C:\Users\Josh\source\repos\Acc Maker\Acc Maker\obj\Debug\WAM.pdb
+G:\Coding Projects\Acc Maker\Acc Maker\bin\Debug\WAM.exe.config
+G:\Coding Projects\Acc Maker\Acc Maker\bin\Debug\WAM.exe
+G:\Coding Projects\Acc Maker\Acc Maker\bin\Debug\WAM.pdb
+G:\Coding Projects\Acc Maker\Acc Maker\bin\Debug\Colorful.Console.dll
+G:\Coding Projects\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.AssemblyReference.cache
+G:\Coding Projects\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.SuggestedBindingRedirects.cache
+G:\Coding Projects\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.CoreCompileInputs.cache
+G:\Coding Projects\Acc Maker\Acc Maker\obj\Debug\Acc Maker.csproj.CopyComplete
+G:\Coding Projects\Acc Maker\Acc Maker\obj\Debug\WAM.exe
+G:\Coding Projects\Acc Maker\Acc Maker\obj\Debug\WAM.pdb
