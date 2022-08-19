@@ -9,7 +9,11 @@ Well thats very simple!
 After You Download or Clone My Project You Will Want TO Run The Tool As Administrator [ Allows The Tool To Make The Account ] 
 
 After You Either Type 1 or 2 
+
+
 1 being for Admin Account
+
+
 2 being for Guest Account
 
 Please Note For Guest Account 
