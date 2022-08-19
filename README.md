@@ -15,3 +15,8 @@ After You Either Type 1 or 2
 Please Note For Guest Account 
 You Can Not Make The Username "local" or "localguest" I havent tried other usernames but those two are not allowed. I am not sure if same goes for admin.
 
+
+
+Added source code to repository : 10:10 PM - 10:15 PM it was within that time span
+
+Took out colorful console due to the fact that I never used it.
