@@ -2,8 +2,7 @@
 An C# Tool That Creates Windows Accounts! Either Admin Or Guest.
 
 
------------------------------
-        How To Use?         
+   How To Use?         
         
 Well thats very simple! 
 
@@ -15,8 +14,4 @@ After You Either Type 1 or 2
 
 Please Note For Guest Account 
 You Can Not Make The Username "local" or "localguest" I havent tried other usernames but those two are not allowed. I am not sure if same goes for admin.
-
------------------------------
-
-
 
