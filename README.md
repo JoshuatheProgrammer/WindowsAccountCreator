@@ -7,13 +7,14 @@ An C# Tool That Creates Windows Accounts! Either Admin Or Guest.
 Well thats very simple! 
 
 
+==============================
 
 
 After You Download or Clone My Project You Will Want TO Run The Tool As Administrator [ Allows The Tool To Make The Account ] 
 
 
 
-
+==============================
 
 
 
@@ -27,6 +28,7 @@ After You Either Type 1 or 2
 
 
 
+==============================
 
 
 
@@ -37,7 +39,7 @@ You Can Not Make The Username "local" or "localguest" I havent tried other usern
 
 
 
-
+==============================
 
 
 Added source code to repository : 10:13 PM
